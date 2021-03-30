@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Notion + GNOME
+Comment=This session logs you into notion with GNOME session integration
+Exec=gnome-session-notion
+TryExec=notion-gnome
+Type=Application
+DesktopNames=GNOME
+X-Ubuntu-Gettext-Domain=gnome-session-3.0

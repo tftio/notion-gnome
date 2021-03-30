@@ -1,10 +1,12 @@
-# i3wm + GNOME [![Maintenance](https://img.shields.io/maintenance/yes/2021.svg)]()
+# notion + GNOME
 
 <p align="center">
   <img src="https://i.imgur.com/Ia1pJUK.png" width="45%" height="45%">
 </p>
 
-Allows you to use i3wm with GNOME 3 Session infrastructure.
+Allows you to use notion with GNOME 3 Session infrastructure
+
+-- this is a gross hack 
 
 ## What do I get by installing it?
 - In order to manage GNOME things such as your cursor/icon, (GTK) themes and online accounts.
@@ -12,7 +14,7 @@ Allows you to use i3wm with GNOME 3 Session infrastructure.
 - Useful for people that are getting started with i3wm, but don't want to uninstall their current desktop environment.
 
 ## Requirements
-* i3-wm/i3-gaps
+* notion
 * GNOME (3.38.x)
 * GDM (optional, but useful)
 
